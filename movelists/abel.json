@@ -91,7 +91,7 @@
     ],
     "{ultraCombo2}": [
       {
-        "name": "Heartless",
+        "name": "Breathless",
         "input": ":qcf::qcf:+[LK]+[MK]+[HK] ({hold} [LK]+[MK]+[HK] {toDelay}; {press} [P] {whileDelaying} {toCancel})"
       }
     ]
